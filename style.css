@@ -1,3 +1,4 @@
+
 #cartoon {
     position: relative;
     transform: scale(.5);
@@ -17,7 +18,7 @@
 }
 #head {
     position: absolute;
-    height: 350px;
+    height: 300px;
     width: 350px;
     z-index: 1;
     border: 3px solid black;
